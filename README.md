@@ -1,3 +1,16 @@
+This app was created to help people organize their daily tasks in a clean and simple way. The idea came from looking at paper planners and trying to turn that into a digital version.
+
+We wanted something visual, easy to use, and relaxing to look at — not something full of buttons or complex features. Just a space to write your tasks and manage your day.
+
+I used React with TailwindCSS to build the interface, and Visual Studio Code to develop everything. We designed the layout first in Figma, then I created the screens based on that design.
+
+Users can add a task, choose a category like “Today”, “Upcoming”, or “Completed”, and delete it when it’s done. Everything is connected to a MongoDB database using a Node.js and Express backend.
+
+This was a big challenge for me, especially the part of connecting the frontend to the backend, but I learned a lot — about APIs, components, design, and how to organize code better.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
